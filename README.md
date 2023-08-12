@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kinshu-portfolio.vercel.app/](https://kinshu-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Tailwind**
+- 💬 Ask me about **React, Tailwind, C++, DSA**
 
 - 📫 How to reach me **kinshurajgupta1@gmail.com**
 
