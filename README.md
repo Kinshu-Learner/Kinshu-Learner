@@ -1,7 +1,7 @@
 ![Github Banner](/Github%20Banner%202.jpg)
 
 <h1 align="center">Hi 👋, I'm Kinshu Raj Gupta</h1>
-<h3 align="center">A passionate Frontend Developer and Coder from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Coder from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshu-learner&label=Profile%20views&color=0e75b6&style=flat" alt="kinshu-learner" /> </p>
