@@ -1,4 +1,4 @@
-![Github Banner](/Github%20Banner.png)
+![Github Banner](/Github%20Banner%202.jpg)
 
 <h1 align="center">Hi 👋, I'm Kinshu Raj Gupta</h1>
 <h3 align="center">A passionate Frontend Developer and Coder from India</h3>
