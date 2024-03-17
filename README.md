@@ -54,7 +54,7 @@
 <summary>More Info...</summary>
 <h2>My Github Stats</h2>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kinshu-learner&show_icons=true&locale=en&theme=tokyonight" alt="kinshu-learner" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kinshu-learner&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="kinshu-learner" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinshu-learner&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kinshu-learner" /></p>
 
 </details>
