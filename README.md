@@ -54,7 +54,7 @@
 <summary>More Info...</summary>
 <h2>My Github Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kinshu-learner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="kinshu-learner"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinshu-learner&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kinshu-learner" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kinshu-learner&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="kinshu-learner"/></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinshu-learner&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight" alt="kinshu-learner" /></p>
 
 </details>
